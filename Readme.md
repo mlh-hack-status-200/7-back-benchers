@@ -4,4 +4,5 @@ There are basically two different types of tumor.
 2. Malignant : This type of tumor is generally harmful for the patient and can grew aggresively around the surrounding tissues.
 
 Our analytic model depends on variuos parameters, in our case the parameters are :
-
+1. texture_mean - if the value is greater than or equal to 15 than it  falls into this category
+2. texture_worth - if the value is greater than or equal to 16 than it falls into this category.
